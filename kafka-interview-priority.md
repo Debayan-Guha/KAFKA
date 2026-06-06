@@ -2,76 +2,68 @@
 
 ## 🔥 Tier 1 (Must Know for Interviews)
 
-### 1. TOPICS
+- TOPICS
+- PARTITIONS
+- REPLICATION
+- PRODUCERS
+- CONSUMERS
+- DELIVERY SEMANTICS & GUARANTEES
+- KAFKA INTERNALS
+- ADMINISTRATION & OPERATIONS
+- COMPARISON & CONCEPTUAL
+- COMMON INTERVIEW SCENARIOS (Problem-Solving)
 
-### 2. PARTITIONS
+---
 
-### 4. REPLICATION
+## ⭐ Tier 2 (Frequently Asked for Mid-Level / Experienced)
 
-### 5. PRODUCERS
+- BROKERS
+- KAFKA CONNECT
+- KAFKA STREAMS
+- PERFORMANCE TUNING
+- MIGRATION & UPGRADE
 
-### 6. CONSUMERS
-
-### 7. DELIVERY SEMANTICS & GUARANTEES
-
-### 8. KAFKA INTERNALS
-
-### 9. ADMINISTRATION & OPERATIONS
-
-### 14. COMPARISON & CONCEPTUAL
-
-### 16. COMMON INTERVIEW SCENARIOS (Problem-Solving)
-
-## ⭐ Tier 2 (Frequently Asked in Mid-Level / Experienced Interviews)
-
-### 3. BROKERS
-
-### 10. KAFKA CONNECT
-
-### 11. KAFKA STREAMS
-
-### 13. PERFORMANCE TUNING
-
-### 15. MIGRATION & UPGRADE
+---
 
 ## 📌 Tier 3 (Good to Know / Specialized Roles)
 
-### 12. KSQLDB / KSQL
+- KSQLDB / KSQL
 
-# 🎯 If You Have Very Limited Time
+---
 
-### 1. TOPICS
+## 🎯 If You Have Very Limited Time
 
-### 2. PARTITIONS
+- TOPICS
+- PARTITIONS
+- REPLICATION
+- PRODUCERS
+- CONSUMERS
+- DELIVERY SEMANTICS & GUARANTEES
+- KAFKA INTERNALS
+- COMMON INTERVIEW SCENARIOS
+- COMPARISON & CONCEPTUAL
 
-### 3. REPLICATION
-
-### 4. PRODUCERS
-
-### 5. CONSUMERS
-
-### 6. DELIVERY SEMANTICS & GUARANTEES
-
-### 7. KAFKA INTERNALS
-
-### 8. COMMON INTERVIEW SCENARIOS
-
-### 9. COMPARISON & CONCEPTUAL
+---
 
 ## Coverage
 
-### Covers approximately 80–90% of Kafka interview questions for:
+Covers approximately 80–90% of Kafka interview questions for:
 
-#### Software Engineer
+- Software Engineer
+- Java Backend Developer
+- Spring Boot Developer
+- Microservices Developer
+- Kafka Developer
+- Backend Engineer
+- Platform Engineer
 
-#### Java Backend Developer
+---
 
-#### Spring Boot Developer
+# Kafka Preparation Roadmap
 
-#### Microservices Developer
-
-#### Kafka Developer
-
-#### Backend Engineer
-
-#### Platform Engineer
+| Phase | Focus Area | Time Allocation |
+| :--- | :--- | :--- |
+| **Phase 1** | Core 20% (topics, partitions, producers, consumers, consumer groups, offsets, acks, ISR) | **60% of your time** |
+| **Phase 2** | Exactly-once, transactions, rebalancing, retention, compaction | **25% of your time** |
+| **Phase 3** | Kafka Streams, Connect, KRaft, internals (log, controller) | **10% of your time** |
+| **Phase 4** | Operational/admin commands, comparison with other queues | **5% of your time** |
